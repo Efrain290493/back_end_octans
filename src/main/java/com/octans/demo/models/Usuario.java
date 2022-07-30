@@ -8,7 +8,7 @@ import java.io.Serializable;
 @Entity // relacionar tablas
 @Table(name = "usuarios" ) // como se quiere que se llame la clase en la base de datos
 
-public class Usuario implements Serializable {
+public class    Usuario implements Serializable {
 
     @Id //Primary key
     @GeneratedValue(strategy = GenerationType.IDENTITY)

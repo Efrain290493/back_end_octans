@@ -1,6 +1,6 @@
 package com.octans.demo.services;
 
-import com.octans.demo.dao.UsuarioDao;
+import com.octans.demo.models.dao.UsuarioDao;
 import com.octans.demo.models.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

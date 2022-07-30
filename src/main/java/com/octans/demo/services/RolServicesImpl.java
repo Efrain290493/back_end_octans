@@ -1,6 +1,6 @@
 package com.octans.demo.services;
 
-import com.octans.demo.dao.RolDao;
+import com.octans.demo.models.dao.RolDao;
 import com.octans.demo.models.Rol;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
